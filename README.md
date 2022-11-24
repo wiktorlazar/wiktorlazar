@@ -2,7 +2,7 @@
     <img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@antitrendy&border_radius=0%200%205px%205px&theme=dark&bg_color=161B22&border_color=161B22&icon_color=58a6ff&show_icons=true&disable_animations=true">
 </a>
 <img width="50%" align="right" alt="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antitrendy&layout=compact&theme=codeSTACKr">
-
+<figure><embed src="https://wakatime.com/share/@antitrendy/2ab379d4-7c5e-40fe-81a7-f729449e66de.svg"></embed></figure>
 # Hi, I'm Wiktor👋
 
 <br>
