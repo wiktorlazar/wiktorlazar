@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
-<img width="50%" align="right" alt="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiktorlazar&layout=compact">
+<img width="50%" align="right" alt="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiktorlazar&layout=compact&theme=codeSTACKr">
 # Hi, I'm Wiktor👋
 
 <br>
