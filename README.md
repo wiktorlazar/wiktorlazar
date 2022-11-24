@@ -3,7 +3,7 @@
 </a>
 <img width="50%" align="right" alt="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antitrendy&layout=compact&theme=codeSTACKr">
 
-# Hi, I'm Wiktor Łazar 👋
+# Hi, I'm Wiktor👋
 
 <br>
 
