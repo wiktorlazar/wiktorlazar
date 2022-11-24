@@ -1,15 +1,8 @@
 <a href="https://wakatime.com/@antitrendy" target="_blank">
 <img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@antitrendy&border_radius=0%200%205px%205px&theme=dark&bg_color=161B22&border_color=161B22&icon_color=58a6ff&show_icons=true&disable_animations=true">
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/antitrendy/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiktorlazar&layout=compact" />
-</a>
-<a href="https://github.com/antitrendy/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
 <img width="50%" align="right" alt="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiktorlazar&layout=compact&theme=codeSTACKr">
+
 # Hi, I'm Wiktor👋
 
 <br>
