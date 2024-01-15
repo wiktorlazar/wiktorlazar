@@ -1,7 +1,7 @@
 
 
 ## Hi, I'm [Wiktor!](https://github.com/wiktorlazar)👋
-<a href="https://twitter.com/antitrendyy" target="_blank"><img alt="twitter" align="center" src="https://img.shields.io/badge/-Twitter-0D1117?style=flat-square&logo=twitter&logoColor=white"></a>
+<a href="https://www.instagram.com/wiktorlazarr/" target="_blank"><img alt="instagram" align="center" src="https://img.shields.io/badge/-Twitter-0D1117?style=flat-square&logo=twitter&logoColor=white"></a>
 <a href="https://www.twitch.tv/f0rexst" target="_blank"><img alt="twitter" align="center" src="https://img.shields.io/badge/-Twitch-0D1117?style=flat-square&logo=twitch&logoColor=white"></a>
 <a href="mailto:lazarwiktor7@gmail.com" target="_blank"><img alt="email" align="center" src="https://img.shields.io/badge/-Email-0D1117?style=flat-square&&logo=gmail&logoColor=white"></a>
 <br>
