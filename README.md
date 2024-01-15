@@ -7,7 +7,7 @@
 <br>
 
 - 🌱 I’m currently learning **nothin**
-- ⚙️ Mastering: `graphic design` 😎
+- ⚙️ Mastering: `react` 😎
 
 <br>
 
