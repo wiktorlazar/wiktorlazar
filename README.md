@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Wiktor!👋
+# Hi, I'm [Wiktor!](https://github.com/wiktorlazar)👋
 
 <br>
 
