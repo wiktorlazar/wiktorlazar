@@ -6,7 +6,7 @@
 <a href="mailto:lazarwiktor7@gmail.com" target="_blank"><img alt="email" align="center" src="https://img.shields.io/badge/-Email-0D1117?style=flat-square&&logo=gmail&logoColor=white"></a>
 <br>
 
-- 🌱 I’m currently learning **nextjs**
+ - 🌱 I’m currently learning **nextjs**
 - ⚙️ Mastering: `react` 😎
 - [![BR](https://b-r.io/logo/favicon-16x16.png)](https://brianruizy.com/) 
 Feel free to checkout my [portfolio](https://brianruizy.com/) website!
