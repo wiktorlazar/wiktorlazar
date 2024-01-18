@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **nextjs**
 - ⚙️ Mastering: `react` 😎
-- 🧰 I build with: `Python` `Django`, `JavaScript`, `Next.js`, `Gatsby.js`,  `MUI`, `Tailwind` ...
-- ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
-- 📫 Reach out to me: brian@b-r.io
+- 🧰 I build with: `Python`, `JavaScript`, `Next.js`, `Gatsby.js`,  `MUI`, `Tailwind` ...
+- ⚡ I enjoy skiing, swiming, and lifting weights :)
+- 📫 Reach out to me: lazarwiktor7@gmail.com
 <br>
 
 <a href="https://wakatime.com/@antitrendy" target="_blank">
-<img width="70%" align="left" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@antitrendy&border_radius=0%200%205px%205px&theme=dark&bg_color=161B22&border_color=161B22&icon_color=58a6ff&show_icons=true&disable_animations=true">
+<img width="50%" align="left" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@antitrendy&border_radius=0%200%205px%205px&theme=dark&bg_color=161B22&border_color=161B22&icon_color=58a6ff&show_icons=true&disable_animations=true">
 </a>
