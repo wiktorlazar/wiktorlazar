@@ -6,8 +6,8 @@
 <a href="mailto:lazarwiktor7@gmail.com" target="_blank"><img alt="email" align="center" src="https://img.shields.io/badge/-Email-0D1117?style=flat-square&&logo=gmail&logoColor=white"></a>
 <br>
 
-- 🌱 I’m currently learning **nextjs**
-- ⚙️ Mastering: `react` 😎
+- 🌱 I’m currently learning **Radix, Framer Motion**
+- ⚙️ Mastering: `nextjs` 😎
 - 🧰 I build with: `Python`, `JavaScript`, `Next.js`, `Gatsby.js`,  `MUI`, `Tailwind` ...
 - ⚡ I enjoy skiing, swiming, and lifting weights :)
 - 📫 Reach out to me: lazarwiktor7@gmail.com
