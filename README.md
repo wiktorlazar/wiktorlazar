@@ -6,11 +6,11 @@
 <a href="mailto:lazarwiktor7@gmail.com" target="_blank"><img alt="email" align="center" src="https://img.shields.io/badge/-Email-222831?style=flat-square&&logo=gmail&logoColor=white&labelColor=1f1f1f"></a>
 <br>
 
-🌱 I’m currently learning **Radix, Framer Motion**
-⚙️ Mastering: `nextjs` 😎
-🧰 I build with: `Python`, `JavaScript`, `Next.js`, `Gatsby.js`,  `MUI`, `Tailwind` ...
-⚡ I enjoy skiing, swimming, and lifting weights :)
-📫 Reach out to me: lazarwiktor7@gmail.com
+- 🌱 I’m currently learning **Radix, Framer Motion**
+- ⚙️ Mastering: `nextjs` 😎
+- 🧰 I build with: `Python`, `JavaScript`, `Next.js`, `Gatsby.js`,  `MUI`, `Tailwind` ...
+- ⚡ I enjoy skiing, swimming, and lifting weights :)
+- 📫 Reach out to me: lazarwiktor7@gmail.com
 <br>
 
 <a href="https://wakatime.com/@antitrendy" target="_blank">
