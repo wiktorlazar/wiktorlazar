@@ -2,7 +2,7 @@
 
 ## Hi, I'm [Wiktor!](https://github.com/wiktorlazar)👋
 <a href="https://www.instagram.com/wiktorlazarr/" target="_blank"><img alt="instagram" align="center" src="https://img.shields.io/badge/-Instagram-0D1117?style=flat-square&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/wiktorlazar/" target="_blank"><img alt="linkedin" align="center" src="https://img.shields.io/badge/-Linkedin-0D1117?style=flat-square&logo=twitch&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/wiktorlazar/" target="_blank"><img alt="linkedin" align="center" src="https://img.shields.io/badge/-Linkedin-0D1117?style=flat-square&logo=linkedin&logoColor=white"></a>
 <a href="mailto:lazarwiktor7@gmail.com" target="_blank"><img alt="email" align="center" src="https://img.shields.io/badge/-Email-0D1117?style=flat-square&&logo=gmail&logoColor=white"></a>
 <br>
 
