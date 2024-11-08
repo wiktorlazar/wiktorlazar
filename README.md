@@ -14,5 +14,5 @@
 <br>
 
 <a href="https://wakatime.com/@antitrendy" target="_blank">
-<img width="50%" align="left" alt="Weekly Coding Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@antitrendy&theme=dark&bg_color=0D1117&border_color=161B22&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff&show_icons=true&custom_title=Weekly Coding Stats&bar_color=58a6ff">
+    <img width="50%" align="left" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@antitrendy&border_radius=8px&theme=dark&bg_color=rgba(13,17,23,1)&border_color=rgba(22,27,34,0.6)&icon_color=58a6ff&text_color=white&title_color=white&show_icons=true&disable_animations=true">
 </a>
