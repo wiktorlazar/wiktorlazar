@@ -1,9 +1,10 @@
 
 
 ## Hi, I'm [Wiktor!](https://github.com/wiktorlazar)👋
-<a href="https://www.instagram.com/wiktorlazarr/" target="_blank"><img alt="instagram" align="center" src="https://img.shields.io/badge/-Instagram-222831?style=flat-square&logo=instagram&logoColor=white&labelColor=1f1f1f"></a>
-<a href="https://www.linkedin.com/in/wiktorlazar/" target="_blank"><img alt="linkedin" align="center" src="https://img.shields.io/badge/-Linkedin-222831?style=flat-square&logo=linkedin&logoColor=white&labelColor=1f1f1f"></a>
-<a href="mailto:lazarwiktor7@gmail.com" target="_blank"><img alt="email" align="center" src="https://img.shields.io/badge/-Email-222831?style=flat-square&&logo=gmail&logoColor=white&labelColor=1f1f1f"></a>
+[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/wiktorlazar)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6" />](https://www.instagram.com/wiktorlazarr/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wiktorlazar/)
+[<img src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" />](mailto:lazarwiktor7@gmail.com)
 <br>
 
 - 🌱 I’m currently learning **Radix, Framer Motion**
